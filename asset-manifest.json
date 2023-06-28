@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be4cf71d.css",
+    "main.js": "/static/js/main.72d91295.js",
+    "static/media/YashmaniResumeWeb.pdf": "/static/media/YashmaniResumeWeb.0061780b587816177040.pdf",
+    "static/media/YashmaniPhoto.jpeg": "/static/media/YashmaniPhoto.bd74f376a6c5ba4f5de9.jpeg",
+    "index.html": "/index.html",
+    "main.be4cf71d.css.map": "/static/css/main.be4cf71d.css.map",
+    "main.72d91295.js.map": "/static/js/main.72d91295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4cf71d.css",
+    "static/js/main.72d91295.js"
+  ]
+}
